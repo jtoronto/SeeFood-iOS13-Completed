@@ -6,9 +6,17 @@ Just decided to have a little fun with this project from Angena Yu's iOS develop
 * Implemented a blur effect view with an activity spinner that runs while CoreML is processing the image.
 * Implemented a table-view where the user can see the first 10 most probable results. 
 
+<<<<<<< Updated upstream
 ![Screenshot 1](Screenshots/screenshot1.png)
 
 ![Screenshot 2](Screenshots/screenshot2.png)
 
 ![Screenshot 3](Screenshots/screenshot3.png)
+=======
+![Screenshot 1](Screenshots/Screenshot1.png)
+
+![Screenshot 2](Screenshots/Screenshot2.png)
+
+![Screenshot 3](Screenshots/Screenshot3.png)
+>>>>>>> Stashed changes
 
